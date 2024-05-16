@@ -72,7 +72,6 @@ const config: Config = {
           position: 'left',
           label: 'Document',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/jayden-dang/near-docs',
           label: 'GitHub',
